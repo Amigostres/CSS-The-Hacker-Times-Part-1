@@ -32,6 +32,14 @@ nav li{
     text-align: center;
     
 }
+nav a{
+    color: #777;
+    text-decoration: none;
+}
+nav a:hover{
+    color: black;
+}
+
 h1{
     font-family: Roboto Slab;
     text-align: center;
@@ -45,4 +53,15 @@ h4, h2 {
 }
 a:link{
     color: #777;
+
+}
+
+
+.more-articles{
+    
+}
+div section{
+    display: inline-block;
+    width: 40%;
+    padding: 15px;
 }
