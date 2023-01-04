@@ -3,8 +3,29 @@ body {
     font-family: Source Sans Pro;
     background-color: white;
 }
+header{
+    font-family: Abril Fatface;
+}
 .newspaper-container{
     box-shadow: #ddd;
+    width: 700px;
+    border-radius: 10px;
+    box-shadow: 10pxs;
+    padding: 20px;
+    margin: auto;
+    }
+nav{
+
+    border: 1px solid black; border-width: 1px 0 1px o;
+}
+nav li{
+    display: inline-block;
+    padding: 10px;
+    
+}
+h1{
+    font-family: Roboto Slab;
+    text-align: center;
 }
 header {
     font-family: Abril Fatface;
